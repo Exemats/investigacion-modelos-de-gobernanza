@@ -1,0 +1,61 @@
+---
+title: "Cristian León"
+nav_order: 2
+parent: Entrevistas
+---
+
+## **Cristian León**
+
+Cristian León es un politólogo boliviano; fundador y director ejecutivo de la Fundación InternetBolivia.org, secretario del consorcio regional Al Sur entre 2021 y 2025 y antes director programático de Asuntos del Sur.
+
+1\. ¿Cómo describirías el estado de la gobernanza digital en derechos humanos en tu país y en la región hoy, comparado con hace cinco años?
+
+Hay un diagnóstico, que imagino se viene repitiendo, de retroceso. Antes teníamos una gobernanza mucho más abierta y participativa, con organismos internacionales dispuestos a escuchar a múltiples partes interesadas. Hoy la sensación es que esos espacios se están cerrando y que la conversación se está dando cada vez más entre Estados. Como muchos gobiernos ocupan hoy líneas políticas de derecha, derecha conservadora o ultraderecha, la tendencia es a trabajar menos con sociedad civil y más con empresas, muchas veces empresas aliadas del propio gobierno. La sociedad civil suele ser crítica; en cambio a las empresas les interesa hacer negocios y, mientras no critiquen, se las escucha más.
+
+Buena parte de las decisiones críticas tampoco se están abriendo, y eso se ve con claridad en IA. A diferencia de la gobernanza de Internet, la gobernanza de la IA es mucho más cerrada y privativa, empujada por empresas que no quieren abrir su información ni sus sistemas y que rechazan cualquier auditoría. El único espacio que veo relativamente abierto es Naciones Unidas, aunque participar ahí nunca fue del todo fácil: exige muchas credenciales, es caro asistir a los foros y la cantidad de participantes hace que la voz de cada actor se diluya.
+
+A nivel regional también se han perdido varios espacios. Desde mi experiencia en Al Sur, veníamos siguiendo foros de la OCDE, la OEA, la Cumbre de las Américas, y espacios gestionados por UNESCO, la CAF y el BID; muchos de ellos ya no se convocan. La Cumbre de las Américas incluso se suspendió, cuando ya habíamos invertido en pasajes. El LACIGF sigue siendo interesante, pero muchas organizaciones ya no participan como antes. AbreLatAm se sostiene, pero la última edición, que se hizo en Bolivia, tuvo muchas críticas porque el gobierno prácticamente lo capturó. La sociedad civil no fuimos parte de la organización, más allá de que aparecieran nuestros logos. Temo que otras organizaciones piensen que Fundación Internet Bolivia estuvo involucrada, cuando no fue así: nos invitaron y después dejaron de invitarnos. Esperemos que este año, en Guatemala, sea distinto.
+
+En Bolivia no tenemos IGF desde hace unos tres años. ISOC ha desaparecido, o si existe, yo lo desconozco: puede que alguien lo esté gestionando, pero no convoca a ninguna reunión. Sencillamente no hay un espacio donde nos podamos encontrar los distintos sectores. Y la línea del gobierno actual es abiertamente anti sociedad civil, así que tampoco va a convocarnos para tomar decisiones. Es un retroceso claro.
+
+2\. ¿Cuál es la laguna regulatoria que más te preocupa en este momento, y por qué crees que sigue sin resolverse?
+
+Puede sonar a mirar hacia el pasado, pero la protección de datos, que dábamos por resuelta, está retrocediendo. Muchas leyes que se intentaron actualizar no avanzaron, en buena parte por el empuje de la agenda de ciberdelitos: el tratado de ciberdelitos va en contra de la protección de datos, porque obliga a los gobiernos a compartir más información entre ellos y con empresas. Al mismo tiempo, una de las legislaciones que más se está apoyando es la de protección de la niñez —lo cual me parece bien—, pero en muchos casos, para habilitar investigación de ciberdelitos, se pierden garantías de privacidad. Lo he visto en Chile y sobre todo en Bolivia: acá las empresas de telecomunicaciones están obligadas a guardar registros por más de dos años, y como el propio Estado es dueño de la principal operadora, si quisiera podría impulsar prácticas de vigilancia con facilidad.
+
+Otro tema que creía consolidado, y no lo está tanto, es el de las violencias digitales. Hay una corriente ultraconservadora que las rechaza porque las asocia al feminismo y al enfoque de género. Acá el debate fue brutal: se llegó a decir, literalmente, que era una "ley *woke*". Así que no va a haber ley de violencias digitales.
+
+En cambio, los temas donde sí hay interés gubernamental por avanzar son niñez y ciberseguridad —Colombia es un ejemplo claro—. En Bolivia, la ley de IA obtuvo media sanción sin discusión: les pareció interesante, la aprobaron y la dejaron ahí. Supongo que la retomarán este año.
+
+3\. Más allá de que exista o no una ley, ¿qué tendría que cambiar en la autoridad de aplicación —autonomía, capacidad técnica, presupuesto— para que las normas funcionen en la práctica?
+
+Autoridades independientes, sin duda. México retrocedió después de casi diez años de tener una autoridad independiente en acceso a la información y protección de datos, y hoy ya no existe. En muchos países, por las discusiones que he escuchado, se están aprobando leyes "sin dientes": si no hay una autoridad independiente que vele por su aplicación, terminan sirviendo al político de turno más que al ciudadano. Ese es hoy el mayor vacío.
+
+A esto se suma que, como tampoco hay verdadera inclusión de múltiples partes interesadas en los procesos legislativos, las leyes que se producen no traducen los estándares de derechos humanos ni las salvaguardas que uno esperaría encontrar en ellas.
+
+4\. Los marcos de derechos humanos —el sistema interamericano, los estándares iberoamericanos, los instrumentos internacionales— suelen invocarse como base para regular el entorno digital, pero varios de estos sistemas atraviesan tensiones de legitimidad y de eficacia. ¿Qué tan válidos los ves hoy como motor real de cambio regulatorio, y qué tendría que pasar para que dejen de ser una referencia declarativa y traccionen políticas concretas?
+
+Creo que siguen bastante vigentes. Aunque estos nuevos gobiernos ya no les hacen tanto caso a los tratados ni a los estándares internacionales, esos marcos siguen ahí, y todavía existe la posibilidad de empujar políticas apoyándose en ellos. Por lo que he podido ver, los gobiernos se siguen preocupando por implementar las recomendaciones del Examen Periódico Universal y las toman casi como auditorías. Lo mismo pasa con algunas sentencias de la Corte Interamericana. La razón es que la estructura del Estado no es fácil de permear: aunque en la cúpula política haya una línea antiderechos, esa línea no ha transformado por completo al aparato estatal. Muchos jueces y muchas autoridades siguen respondiendo a la exigencia de cumplir con determinadas sentencias o estándares. Lo hacen menos que antes, y hay menos actores abogando por esa vía, pero el marco sigue operando.
+
+El problema aparecerá si se dan dos cosas. La primera, que Europa cambie de perspectiva: Europa sigue inspirando muchos de nuestros marcos normativos —cuando se legisla acá, se mira lo que hizo Europa—, y si su enfoque se vuelve menos garantista y más "pro innovación", como ya asoman algunas corrientes, eso nos va a afectar directamente. La segunda, que Naciones Unidas termine de perder sentido. Con las guerras recientes hemos visto que no pasa nada: no hay sanciones reales contra Israel, ni contra Rusia, ni contra Estados Unidos. Es muy factible que sigamos así, negando lo que está ocurriendo.
+
+Si el sistema internacional no se fortalece, las grandes potencias no van a sostener el marco de derechos humanos por su cuenta. Pero las potencias medias podrían hacerlo. Si esos países no actúan, el sistema internacional se cae y el marco de derechos humanos pierde todo su sentido operativo.
+
+5\. ¿Ves alguna ventana de oportunidad concreta para los próximos dos o tres años, a nivel nacional y a nivel regional?
+
+Es una pregunta difícil, pero hay que sostener una perspectiva positiva; si no, ¿para qué hacemos lo que hacemos? Voy a ir de Bolivia hacia afuera.
+
+En Bolivia, más allá de que el gobierno no está escuchando a la sociedad civil, siento que sí quiere hacer las cosas correctamente. No está pensando en hacer daño ni en ser represivo. En el último conflicto, que fue pésimamente gestionado, hay que reconocer que hasta último momento evitó una represión masiva: actuó con cierta fuerza y hubo decesos, pero no en el marco directo de las protestas, sino de forma indirecta. Tiene miedo de excederse en el uso de la fuerza, y eso me da esperanza de que termine entendiendo que necesita gobernar con inclusión y dialogando con la sociedad civil, sobre todo porque es un gobierno bastante débil. Ahí veo una oportunidad.
+
+A nivel internacional, mi esperanza sincera es que la tendencia ultraderecha, tipo MAGA, no se consolide. Tuvo fuerza, se movió rápido y destruyó muchas cosas, pero no creo que la ciudadanía sea tan ingenua como para no notar el daño generado en tan poco tiempo, y confío en que va a empezar a sacarlos democráticamente. El problema es que varios países acaban de votar por gobiernos de esa línea —Colombia y Perú—, y ahí la esperanza pasa por que la institucionalidad funcione como freno, que no los deje replicar todo lo que hemos visto en otros lados. Que la institucionalidad, como un edificio, aguante hasta cierto punto y no deje que todo se derrumbe. Y que a nivel internacional el sistema también se sostenga: hay muchos países con más peso del que creen tener, y podrían prestar esa fuerza para sostener Naciones Unidas y ese entramado. No estamos perdidos.
+
+Desde la sociedad civil, veo con optimismo el trabajo de los consorcios. Al Sur es uno de ellos. Yo recientemente dejé Al Sur, pero quedó fortalecido: tiene financiamiento y organizaciones comprometidas. Los consorcios, las articulaciones y las redes son hoy el camino. También está la Global South Alliance, que articula África, Asia y América Latina, y hay varias más en distintos temas. Miro esas articulaciones con esperanza de que logren cosas o, al menos, de que sobrevivan a esta tormenta, que ya sería bastante.
+
+6\. Si tuvieras que señalar un ejemplo positivo que ya está pasando en la región y que debería replicarse, ¿cuál sería?
+
+Siempre me impresionó Brasil, por la capacidad de articular tantas organizaciones dentro de su coalición de derechos humanos. Me pareció un ejemplo de cómo empujar legislación desde un frente amplio. Quizá tenga que ver con una cultura brasilera más abierta, más frontal, que permitió construir esa fortaleza de sociedad civil. Incluso sobrevivieron a un gobierno como el de Bolsonaro; habrá que ver qué pasa en las próximas elecciones y si esa articulación se sostiene en el tiempo.
+
+También cómo gestionaron el NetMundial, en sus dos ediciones. No fue una metodología perfecta, pero fue una buena metodología para que todos los actores participaran de manera horizontal, con el mismo tiempo para expresar sus opiniones y sin reuniones a puertas cerradas. Fue de los espacios donde realmente hubo participación diversa.
+
+A las coaliciones que ya mencioné habría que sumarles otras, como las de medio ambiente y las de pueblos indígenas. Por lo poco que he visto en Bolivia, las organizaciones ambientalistas están bastante organizadas y tienen mucha más capacidad para resistir políticas contrarias. Acá se han frenado dos leyes que iban contra los pueblos indígenas y sus territorios. Una reciente pretendía habilitar a los bancos a dividir la propiedad comunitaria en parcelas individuales, con el argumento de facilitar el acceso al crédito para pequeños propietarios; pero acá la propiedad comunitaria es fundamental, porque hablamos de poblaciones indígenas con una fuerte institución comunitaria. Gracias a la alianza entre los pueblos indígenas, las organizaciones sociales y las ONG, esa ley se detuvo y se revirtió. Fue todo de manera pacífica. Ahí hay mucho que aprender.
+
+En el área de derechos digitales quizá deberíamos reunirnos más con esas organizaciones para entender sus lógicas. Hoy no hay demasiado diálogo entre comunidades —la de pueblos indígenas, la ambientalista, la de género, la de derechos digitales— y creo que un aprendizaje cruzado sería especialmente valioso en este contexto adverso, que nos toca a todos por igual.

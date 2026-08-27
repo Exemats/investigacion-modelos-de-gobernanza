@@ -1,0 +1,17 @@
+---
+title: "Entrevistas"
+nav_order: 11
+has_children: true
+---
+
+# **Entrevistas**
+
+Este anexo reúne entrevistas realizadas a personas con trayectoria en derechos digitales en América Latina, a partir de una guía común de **seis preguntas sobre el estado de la gobernanza digital, los vacíos regulatorios, las condiciones de las autoridades de aplicación, la vigencia de los marcos de derechos humanos y las oportunidades de los próximos años.** 
+
+El análisis normativo e institucional del informe describe qué está escrito y quién tiene competencia para aplicarlo; estas conversaciones agregan lo que ningún relevamiento documental refleja por sí mismo: cómo funciona ese andamiaje en el trabajo cotidiano de quienes litigan, investigan, hacen incidencia o trabajan en interacción con Estado.
+
+Las respuestas se produjeron por separado y aun así convergen en un punto: **el déficit más urgente está en la debilidad de quienes deben aplicar las normas, más que en la cantidad de normas disponibles.** Autoridades sin autonomía real, sin presupuesto para sentarse con sus pares de otros países y sin equipos capaces de auditar técnicamente los sistemas que regulan. De ahí se desprenden otros diagnósticos compartidos. Los espacios de consulta existen, pero con frecuencia llegan cuando la decisión ya está tomada y sirven para legitimarla. Los organismos de un mismo Estado trabajan sin articulación entre sí, duplican esfuerzos y descargan el costo de esa dispersión sobre las organizaciones que intentan participar. Y frente a la propia falta de capacidad estatal aparece una tentación recurrente: trasladar al sector privado funciones de control que corresponden al sector público.
+
+**Los desacuerdos también informan.** Sobre los marcos internacionales de derechos humanos hay coincidencia en que conservan validez y divergencia sobre cuánto pueden traccionar en la actualidad, entre quienes los ven todavía operando dentro de las burocracias (jueces que siguen aplicándolos, recomendaciones internacionales que los gobiernos tratan con seriedad) y quienes advierten que la desfinanciación y la deslegitimación en curso los dejan sin fuerza efectiva. Algo parecido ocurre con las oportunidades: hay quienes las ubican en la carrera regulatoria por la inteligencia artificial, quienes las ven en la agenda de protección de la niñez, quienes las buscan en la discusión sobre soberanía digital y el impacto ambiental de la infraestructura, y quienes confían sobre todo en las coaliciones regionales como forma de sostener capacidad en un contexto adverso. **Leídas en conjunto, las entrevistas ofrecen un criterio sobre dónde conviene poner el esfuerzo en los próximos años.**
+
+## 
