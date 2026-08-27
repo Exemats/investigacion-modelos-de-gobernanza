@@ -1,10 +1,4 @@
----
-title: "Perú"
-nav_order: 6
-parent: Perfiles de país
----
-
-# **Perú**
+# Perú
 
 ## Privacidad y Protección de Datos Personales
 
@@ -77,3 +71,4 @@ El acceso a la información pública se estructura normativamente a partir del a
 La autoridad de aplicación es la Dirección Nacional de Transparencia y Acceso a Información Pública, dependiente del Ministerio de Justicia y Derechos Humanos, creada mediante el Decreto Legislativo 1353 (Congreso de la República del Perú, 2017). Entre sus funciones se encuentra la capacitación a entidades públicas para el cumplimiento de las obligaciones de transparencia, así como la supervisión de los referidos portales. Su actuación no contempla mesas de trabajo ni espacios deliberativos permanentes con la sociedad civil, limitándose su vinculación con actores externos a la recepción de comentarios en procesos de consulta puntuales, como el habilitado mediante la Resolución Ministerial 0214-2023-JUS para la publicación del proyecto de reglamento de la Ley de Transparencia (Ministerio de Justicia y Derechos Humanos, 2023), o en capacitaciones realizadas por el mismo organismo.
 
 En materia de jurisprudencia, el Tribunal Constitucional del Perú desarrolló una línea de decisiones sobre acceso a la información pública vinculada a los artículos 2 inciso 5 y 200 de la Constitución. En el Exp. N.º 1797-2002-HD/TC, el tribunal definió el hábeas data como mecanismo destinado a garantizar el acceso a información bajo control estatal y a proteger datos personales. Posteriormente, en el Exp. N.º 2579-2003-HD/TC, el Tribunal sostuvo que el acceso a la información pública constituye un derecho fundamental vinculado al control ciudadano de la administración pública y estableció que las restricciones debían interpretarse de manera limitada. Asimismo, en el Exp. N.º 00487-2010-PHD/TC, el tribunal analizó el alcance de las excepciones de reserva y confidencialidad aplicables a información estatal y reiteró criterios de publicidad y máxima divulgación.
+

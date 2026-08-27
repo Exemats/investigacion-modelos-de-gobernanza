@@ -1,8 +1,3 @@
----
-title: "Cuestiones metodológicas"
-nav_order: 5
----
-
 # Cuestiones metodológicas.
 
 El presente informe tiene por objetivo **analizar los marcos regulatorios vigentes en materia de derechos humanos en entornos digitales**, con especial énfasis en las temáticas de Protección de Datos y Privacidad, Seguridad Digital y Ciberdelitos, Protección a grupos vulnerables en entornos digitales, Gobernanza de Plataformas e Inteligencia Artificial, y Libertad de expresión y acceso a la información en entornos digitales. Asimismo, se propone **examinar el enfoque de derechos humanos subyacente en dichos marcos normativos y su grado de alineamiento con los estándares internacionales en la materia.**
@@ -36,3 +31,4 @@ La unidad de análisis es cada uno de los países de América Latina y el Caribe
 En cuanto a las fuentes y técnicas de recolección de datos, la normativa es relevada a partir de boletines oficiales de cada país y digestos jurídicos. Asimismo, se realiza una recolección bibliográfica de informes de organismos internacionales y producciones académicas de centros de investigación vinculados a las temáticas abordadas.
 
 Los instrumentos jurídicos que forman parte del estudio comprenden legislación nacional, resoluciones y decretos del Poder Ejecutivo Nacional, reglamentaciones, acuerdos, observaciones, declaraciones y convenciones regionales o internacionales, así como fallos judiciales federales de relevancia identificados a partir de la literatura revisada y sistematizada. 
+

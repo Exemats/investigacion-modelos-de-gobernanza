@@ -1,8 +1,3 @@
----
-title: "Introducción"
-nav_order: 2
----
-
 # Introducción
 
 Los derechos digitales son los derechos humanos en entornos digitales (APC, 2006; Roberts, 2021). La importancia de los entornos digitales en la actualidad hace imperativo el respeto de los derechos humanos en entornos digitales, para garantizar el efectivo ejercicio del derecho a la libertad de expresión y de opinión, pero también de otros derechos humanos, así como la promoción del desarrollo económico y social en su conjunto (CDH, 2018). En ese sentido, el ámbito digital se ha convertido en un espacio esencial para ejercer el activismo y la defensa de los derechos humanos, por lo que mantenerlo libre, abierto y seguro se convierte en un imperativo para garantizar el ejercicio de tales derechos (Derechos Digitales, 2025).
@@ -18,3 +13,4 @@ La pregunta que orienta el presente informe es, entonces, la siguiente: **¿cuá
 Comprender el estado actual de la gobernanza digital en América Latina es una condición necesaria para garantizar que el entorno digital sea un espacio de ejercicio pleno de derechos. El informe tiene como objetivo ser una herramienta útil para los **actores estatales** que diseñan políticas públicas, para **las organizaciones de la sociedad civil** que trabajan cotidianamente por la defensa de los derechos humanos en la región, pero también para las **empresas tecnológicas, los proveedores de internet y los desarrolladores de software** que, en tanto actores centrales del ecosistema digital, tienen la responsabilidad y la oportunidad de contribuir a una gobernanza digital más justa, inclusiva y respetuosa de los derechos humanos.
 
 En el primer capítulo se presenta un estado del arte sobre la temática abordada, contextualizando los principales debates en torno al objeto de estudio y la relevancia de la presente investigación en el escenario regional actual. El segundo capítulo desarrolla el marco teórico que orienta la investigación. El tercero contiene los aspectos metodológicos de la presente investigación, dando cuenta de los objetivos generales, específicos y los indicadores. El cuarto capítulo, reúne el análisis de casos en el ámbito global, regional y nacional, a partir del análisis de los nueve países seleccionados. El quinto capítulo sistematiza las principales tendencias regionales identificadas en cada uno de los ejes analizados, sobre la base del relevamiento realizado. Finalmente, el sexto capítulo expone las conclusiones.
+

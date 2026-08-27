@@ -1,10 +1,4 @@
----
-title: "República Dominicana"
-nav_order: 9
-parent: Perfiles de país
----
-
-# **República Dominicana**
+# República Dominicana
 
 ## Privacidad y Protección de Datos Personales
 
@@ -79,3 +73,4 @@ En cuanto a los actores institucionales, no existe un organismo especializado co
 En lo relativo al derecho al acceso a la información en República Dominicana,  el mismo encuentra sustento constitucional en los artículos 2, 3 y 8 de la Constitución, y se enmarca en los compromisos internacionales asumidos por el país, entre ellos la Declaración Universal de Derechos Humanos, el Pacto Internacional de Derechos Civiles y Políticos y el artículo 13 de la Convención Interamericana sobre Derechos Humanos (Ley  200-04). En el plano legal, el instrumento central es la Ley General de Libre Acceso a la Información Pública  200-04, que garantiza el derecho a acceder a actas y expedientes de la administración pública, a estar informado periódicamente sobre las actividades de entidades y personas que ejercen funciones públicas, y a obtener copias de documentos, con las únicas limitaciones referidas a la seguridad nacional, el orden público, la salud o moral públicas, y los derechos a la privacidad y reputación de terceros (Ley  200-04). El Decreto 130-05 aprueba el reglamento de dicha ley y establece la obligación de cada organismo público de asignar un Responsable de Acceso a la Información (RAI) y organizar las respectivas Oficinas de Acceso a la Información (OAI), partiendo de las estructuras y recursos humanos existentes en cada institución (Dec.  130-05). 
 
 En cuanto a los actores institucionales, la ley establece un modelo descentralizado en el que cada organismo, institución y entidad pública es responsable de garantizar el acceso a la información en su ámbito de competencia, sin que exista un organismo garante centralizado con autarquía funcional. En lo que respecta a la participación de la sociedad civil, la Ley 200-04 no contempla mecanismos formales e institucionalizados de participación de organizaciones civiles en el diseño o monitoreo de la política de acceso a la información, más allá del ejercicio individual del derecho por parte de cualquier persona (Ley  200-04). 
+

@@ -1,10 +1,4 @@
----
-title: "Argentina"
-nav_order: 1
-parent: Perfiles de país
----
-
-# **Argentina**
+# Argentina
 
 ## Privacidad y Protección de Datos Personales
 
@@ -79,3 +73,4 @@ En lo que respecta al acceso a la información pública, los precedentes "CIPPEC
 En relación con internet y los buscadores, la Corte introdujo en 2022 un giro jurisprudencial de relevancia en la causa "Denegri, Natalia Ruth c/ Google Inc. s/ Derechos personalísimos: acciones relacionadas", señalando que, en lo que respecta al derecho al olvido, la libertad de expresión ocupa un lugar preeminente en el ordenamiento constitucional argentino y que toda restricción sobre ella debe ser de interpretación restrictiva y goza de una fuerte presunción de inconstitucionalidad. El tribunal reconoció el papel fundamental que desempeñan los motores de búsqueda en el debate público y en el acceso a la información.
 
 A su vez, la Defensoría del Público de Servicios de Comunicación Audiovisual creó en octubre de 2020  NODIO, Observatorio de la Desinformación y la Violencia Simbólica en Medios y Plataformas Digitales, presentado como una herramienta de estudio cualitativo y cuantitativo de la desinformación y los discursos de odio en medios y plataformas digitales. La iniciativa, sin embargo, generó una controversia de amplio alcance, por lo que el observatorio nunca llegó a ser efectivo.
+

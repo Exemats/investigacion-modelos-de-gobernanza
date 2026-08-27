@@ -1,10 +1,4 @@
----
-title: "Panorama regional comparado"
-nav_order: 2
-parent: Análisis de los marcos regulatorios
----
-
-# **Regional**
+# Regional
 
 ## Privacidad y Protección de Datos Personales
 
@@ -58,9 +52,3 @@ En los últimos años han surgido distintas experiencias y proyectos internacion
 
 En cuanto a los espacios regionales de construcción de capacidades y diálogo sobre datos abiertos, en lo relativo al acceso a la información y los datos abiertos como herramienta para prevenir y combatir la corrupción, el Programa Interamericano de Datos Abiertos para Prevenir y Combatir la Corrupción (PIDA) constituye el principal marco regional en la materia. Este programa promueve la adopción de estándares comunes en materia de datos abiertos gubernamentales, con miras a fortalecer la transparencia y la rendición de cuentas en los países de la región. A su vez, la Iniciativa Latinoamericana por los Datos Abiertos (ILDA), creada en el año 2018, reúne a gobiernos, sociedad civil, expertos y académicos con el objeto de apoyar el desarrollo de políticas y estrategias de datos abiertos, capacitar a funcionarios, promover buenas prácticas y generar estudios y foros regionales, entre los que se destacan los espacios ABRE LATAM y ConDatos. Por su parte, **la Red Interamericana de Gobierno Digital (RedGeALC),** en el marco de la OEA, funciona como foro regional para la discusión y cooperación sobre gobierno digital, incluyendo el desarrollo e intercambio de políticas de datos abiertos, espacios de diálogo técnico y político, y el apoyo en la formulación de estrategias nacionales en la materia.
 
----
-
-**Notas**
-
-[^5]:  [https://lac.unwomen.org/sites/default/files/2022-11/MUESTRA%20Informe%20Violencia%20en%20linea%202.1%20%282%29_Aprobado%20%28Abril%202022%29_0.pdf](https://lac.unwomen.org/sites/default/files/2022-11/MUESTRA%20Informe%20Violencia%20en%20linea%202.1%20%282%29_Aprobado%20%28Abril%202022%29_0.pdf)
-[^6]:  A modo de referencia comparada fuera de la región, resulta ilustrativo el Proyecto de Ley Orgánica para la protección de las personas menores de edad en los entornos digitales de España (aprobado como anteproyecto por el Consejo de Ministros en junio de 2024 y remitido como proyecto de ley en 2025), cuyo artículo 2 incorpora una declaración de derechos de niñas, niños y adolescentes en el entorno digital —entre ellos, el derecho a ser protegidos eficazmente frente a contenidos que puedan perjudicar su desarrollo y el derecho a recibir información adecuada a su edad sobre el uso de las tecnologías y sus riesgos—. Se lo menciona como antecedente normativo de un enfoque basado en derechos, sin que forme parte de los casos nacionales analizados en este informe. Ver: [Proyecto de Ley Orgánica para la protección de las personas menores de edad en los entornos digitales del Congreso de los Diputados de España](https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-52-1.PDF)

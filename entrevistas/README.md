@@ -1,10 +1,4 @@
----
-title: "Entrevistas"
-nav_order: 11
-has_children: true
----
-
-# **Entrevistas**
+# Entrevistas
 
 Este anexo reúne entrevistas realizadas a personas con trayectoria en derechos digitales en América Latina, a partir de una guía común de **seis preguntas sobre el estado de la gobernanza digital, los vacíos regulatorios, las condiciones de las autoridades de aplicación, la vigencia de los marcos de derechos humanos y las oportunidades de los próximos años.** 
 
@@ -14,4 +8,3 @@ Las respuestas se produjeron por separado y aun así convergen en un punto: **el
 
 **Los desacuerdos también informan.** Sobre los marcos internacionales de derechos humanos hay coincidencia en que conservan validez y divergencia sobre cuánto pueden traccionar en la actualidad, entre quienes los ven todavía operando dentro de las burocracias (jueces que siguen aplicándolos, recomendaciones internacionales que los gobiernos tratan con seriedad) y quienes advierten que la desfinanciación y la deslegitimación en curso los dejan sin fuerza efectiva. Algo parecido ocurre con las oportunidades: hay quienes las ubican en la carrera regulatoria por la inteligencia artificial, quienes las ven en la agenda de protección de la niñez, quienes las buscan en la discusión sobre soberanía digital y el impacto ambiental de la infraestructura, y quienes confían sobre todo en las coaliciones regionales como forma de sostener capacidad en un contexto adverso. **Leídas en conjunto, las entrevistas ofrecen un criterio sobre dónde conviene poner el esfuerzo en los próximos años.**
 
-## 

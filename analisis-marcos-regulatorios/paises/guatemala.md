@@ -1,10 +1,4 @@
----
-title: "Guatemala"
-nav_order: 8
-parent: Perfiles de país
----
-
-# **Guatemala**
+# Guatemala
 
 ## Privacidad y Protección de Datos Personales
 
@@ -59,3 +53,4 @@ En el plano normativo nacional, el Decreto 57-2008, Ley de Acceso a la Informaci
 En cuanto a la jurisprudencia existente en materia de libertad de expresión, entre los precedentes más citados se encuentra la sentencia de la Corte de Constitucionalidad en el Expediente 4628-2009 (14 de septiembre de 2010), donde el tribunal dejó sin efecto sanciones impuestas por críticas formuladas en el contexto de una campaña universitaria y sostuvo que la libertad de expresión constituye un requisito indispensable para la democracia y la formación de la opinión pública. Por otro lado, en relación a jurisprudencia existente relacionada al derecho al acceso a la información, el expediente 1828-2010, de 24 de agosto de 2010, la Corte sostuvo que el artículo 30 de la Constitución reconoce el derecho de toda persona a acceder a información en poder del Estado y estableció que las restricciones deben encontrarse expresamente justificadas conforme a la Ley de Acceso a la Información Pública. Dicha doctrina continúo reforzandose a través del expediente 4054-2015, la Corte reiteró que la clasificación de información reservada debe interpretarse restrictivamente y que las autoridades deben motivar adecuadamente cualquier negativa de entrega de información pública.
 
 En lo relativo a los actores con competencia en el acceso a la información, la Procuraduría de los Derechos Humanos (PDH) cumple un rol central en la supervisión del cumplimiento del Decreto 57-2008, la recepción y resolución de quejas ciudadanas, y la capacitación de funcionarios públicos. La Contraloría General de Cuentas (CGC) interviene mediante auditorías regulares, revisión de documentos financieros e investigación de irregularidades, con facultades para imponer sanciones administrativas a instituciones que incumplan sus obligaciones de transparencia (Fundación Libertad y Desarrollo, 2024). No se identifican espacios formales de participación de la sociedad civil en la toma de decisiones en estas materias.
+

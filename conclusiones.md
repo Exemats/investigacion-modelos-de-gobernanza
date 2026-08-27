@@ -1,8 +1,3 @@
----
-title: "Conclusiones"
-nav_order: 9
----
-
 # Conclusiones 
 
 A continuación, se presentan las conclusiones realizadas por país en cuanto a los modelos de gobernanza de derechos humanos en entornos digitales.
@@ -34,3 +29,4 @@ Asimismo, el análisis muestra que, **ante la ausencia de legislación específi
 **Si bien se registra una moderada presencia de espacios de deliberación y toma de decisiones que cuenta con participación de organizaciones de la sociedad civil e individuos, muchas de ellas no son vinculantes o dependen exclusivamente del respectivo Poder Ejecutivo Nacional.** En consecuencia, dichos canales de participación responden a la arbitrariedad del Poder Ejecutivo.
 
 **A nivel regional, también se observa una marcada dependencia de estándares internacionales y modelos regulatorios externos,** especialmente de los marcos regulatorios de la Unión Europea, de la UNESCO y la existencia de leyes modelo de la Organización de Estados Americanos.
+

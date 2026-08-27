@@ -1,16 +1,10 @@
----
-title: "Marco global y regional"
-nav_order: 1
-parent: Análisis de los marcos regulatorios
----
-
 # Análisis de los marcos regulatorios
 
 A continuación, se presentarán los análisis de marcos regulatorios de los casos estudiados, con una mirada global y regional, con el objetivo de identificar ventajas, desventajas y vacíos regulatorios existentes en cada uno de ellos.
 
 ## Modelos de gobernanza a nivel global y regional
 
-### Global 
+1. # **Global** 
 
 En el ámbito global, la gobernanza con enfoque en derechos humanos se estructura a partir de un conjunto de acuerdos, tratados, convenciones, observaciones y principios, complementados por instrumentos elaborados por organismos internacionales destinados a orientar el desarrollo de marcos normativos nacionales por parte de los Estados miembros.
 
@@ -58,8 +52,3 @@ En materia de moderación de contenidos en entornos digitales, los **Principios 
 
 En el año 2015, los **Principios de Manila sobre Responsabilidad de Intermediarios**  (2015) establecieron que estos no deben ser obligados a restringir contenidos a menos que una orden emitida por una autoridad judicial independiente e imparcial haya determinado que el contenido en cuestión es ilícito, limitando así la responsabilidad de los intermediarios a los supuestos en que incumplan dicha orden. Adicionalmente, se exige transparencia en la aplicación de los marcos normativos que regulan su conducta, los cuales deben ser revisados de manera continua para asegurar su actualización, efectividad e impacto en los derechos humanos (García y Quintanilla Perea, 2020).
 
----
-
-**Notas**
-
-[^4]:  También véase relacionado a violencia de género en línea con la [Convención de Estambul](https://www.consejomujeresmadrid.org/wp-content/uploads/2013/08/convenio-estambul.pdf) y la [Directiva (UE) 2024/1385](https://eur-lex.europa.eu/legal-content/es/ALL/?uri=CELEX%3A32024L1385).

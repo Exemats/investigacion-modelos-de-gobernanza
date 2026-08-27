@@ -1,10 +1,4 @@
----
-title: "Chile"
-nav_order: 3
-parent: Perfiles de país
----
-
-# **Chile**
+# Chile
 
 ## Privacidad y Protección de Datos Personales
 
@@ -75,3 +69,4 @@ Chile reformó su Ley de Propiedad Intelectual en el año 2010, limitando la res
 En lo que respecta a la tensión entre libertad de expresión y regulación de contenidos digitales, la jurisprudencia chilena ha experimentado un cambio doctrinario. En 2023, la Corte de Apelaciones de Santiago consideró a las plataformas digitales como meras intermediarias, exentas de responsabilidad constitucional sobre los contenidos que difunden, criterio coherente con una lectura amplia de la libre circulación de la información. No obstante, la Corte Suprema revocó dicha doctrina en la causa ROL  26982-2024, al estimar que las decisiones de moderación de contenido pueden configurar una vulneración de garantías constitucionales, reconociendo que estas empresas ejercen un poder fáctico sobre el discurso público que no puede quedar exento de escrutinio judicial (Cataldo Burgos, 2025). Este precedente adquiere especial relevancia en el ámbito de la violencia de género en entornos digitales, ya que el fallo abre la posibilidad de exigir responsabilidad constitucional a las plataformas por su rol en la difusión de contenidos que afectan derechos fundamentales de las mujeres, marcando un hito en el control judicial de la moderación de contenido digital.
 
 En cuanto a moderación de contenidos, Chile no cuenta con regulación que la tipifique o sancione. El camino elegido para hacer frente a la desinformación en línea ha sido la constitución en mayo de 2023, de la Comisión Asesora contra la Desinformación, de carácter temporal, ad honorem y con participación de la academia, la sociedad civil y organizaciones de verificación independiente (Derechos Digitales, 2026). La Comisión concluyó sus labores en marzo de 2024 con dos informes: uno de diagnóstico sobre el fenómeno a nivel local e internacional, y otro con 72 recomendaciones sobre transparencia algorítmica, desinformación electoral, perspectiva de género y alfabetización mediática, entre otros ejes. Dicha guía propuso la creación de un mecanismo de coordinación multisectorial con obligaciones de transparencia sobre moderación de contenidos, anuncios y representación legal en Chile para las plataformas digitales (Derechos Digitales, 2026). El organismo fue objeto de críticas por el riesgo de que pudiera contribuir a restringir la libertad de prensa y expresión (Antoine Faúndez, 2024).
+

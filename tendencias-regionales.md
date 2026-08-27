@@ -1,8 +1,3 @@
----
-title: "Tendencias regionales"
-nav_order: 8
----
-
 # Tendencias regionales
 
 El análisis comparado de los marcos normativos digitales en nueve países de América Latina permite identificar tendencias que dan cuenta del estado actual en cuanto a los modelos de gobernanza de derechos humanos en entornos digitales. 
@@ -32,3 +27,4 @@ Además, se identifica una tendencia regional en la que, ante la ausencia de des
 A su vez, cabe remarcar que en los países donde las iniciativas regulatorias provienen principalmente del Poder Ejecutivo, se observa una predominancia de instrumentos de carácter administrativo, guías, lineamientos o políticas sectoriales con alcance limitado. Esto configura **marcos regulatorios dispersos**.
 
 En cuanto a la vinculación con estándares internacionales, se identifica a la **Organización de los Estados Americanos, la Organización para la Cooperación y el Desarrollo Económicos y la Unión Europea como los principales espacios de referencia internacional que influyen sobre los procesos regulatorios y de formulación de políticas digitales en América Latina**. En materia de protección de datos personales, se registra una marcada influencia del Reglamento General de Protección de Datos de la Unión Europea (RGPD) sobre reformas legislativas, proyectos de ley y criterios regulatorios adoptados en distintos países de la región. En inteligencia artificial, los principales marcos de referencia identificados corresponden a recomendaciones, principios y lineamientos impulsados por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura y la Organización para la Cooperación y el Desarrollo Económicos, especialmente en estrategias nacionales.
+

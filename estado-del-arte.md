@@ -1,8 +1,3 @@
----
-title: "Estado del arte"
-nav_order: 3
----
-
 # Estado del Arte: Modelos de gobernanza de derechos humanos en entornos digitales en América Latina
 
 América Latina vive un ciclo acelerado de regulación digital. En los últimos años, la mayoría de los países de la región movieron piezas legislativas sobre protección de datos, inteligencia artificial, violencias digitales o protección de la niñez en línea. Muchas de esas normas nacieron al calor de un  interés público y avanzaron en los Congresos más rápido que otros procedimientos presentados en abstracto. La sanción es la parte más ágil en este tipo de procesos regulatorios. Lo que viene después llega mucho más lento: el reglamento que pone la norma en marcha, la autoridad encargada de aplicarla, el presupuesto que la sostiene y los protocolos que coordinan a los organismos responsables de ejecutarla.
@@ -61,9 +56,3 @@ El cuadro regional combina avances sustantivos y deudas estructurales, en propor
 
 **Los próximos años avizoran una serie de decisiones que podrían repetirse, con variantes, a lo largo de la región**: la puesta en funcionamiento de autoridades de datos nuevas o reformadas; el desarrollo reglamentario de los marcos de inteligencia artificial recién sancionados; la actualización de los Estándares Iberoamericanos de Protección de Datos; y el modo en que los tribunales constitucionales interpretan las obligaciones de las plataformas frente a la libertad de expresión, en diálogo con la doctrina interamericana. Chile pone en marcha su nueva Agencia de Protección de Datos; México define la práctica fiscalizadora de la secretaría que asumió las funciones del INAI; Argentina, Colombia, Costa Rica y otros discuten si concretan sus estrategias nacionales de inteligencia artificial. Son decisiones nacionales con un patrón común, y los capítulos que siguen las abordan país por país. El relevamiento que sigue busca analizar las bases sobre las cuales se tomarán esas decisiones.
 
----
-
-**Notas**
-
-[^1]:  Secretaría General Iberoamericana
-[^2]:  Red Iberoamericana de Protección de Datos

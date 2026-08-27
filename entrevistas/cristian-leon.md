@@ -1,10 +1,4 @@
----
-title: "Cristian León"
-nav_order: 2
-parent: Entrevistas
----
-
-## **Cristian León**
+# Cristian León
 
 Cristian León es un politólogo boliviano; fundador y director ejecutivo de la Fundación InternetBolivia.org, secretario del consorcio regional Al Sur entre 2021 y 2025 y antes director programático de Asuntos del Sur.
 
@@ -59,3 +53,4 @@ También cómo gestionaron el NetMundial, en sus dos ediciones. No fue una metod
 A las coaliciones que ya mencioné habría que sumarles otras, como las de medio ambiente y las de pueblos indígenas. Por lo poco que he visto en Bolivia, las organizaciones ambientalistas están bastante organizadas y tienen mucha más capacidad para resistir políticas contrarias. Acá se han frenado dos leyes que iban contra los pueblos indígenas y sus territorios. Una reciente pretendía habilitar a los bancos a dividir la propiedad comunitaria en parcelas individuales, con el argumento de facilitar el acceso al crédito para pequeños propietarios; pero acá la propiedad comunitaria es fundamental, porque hablamos de poblaciones indígenas con una fuerte institución comunitaria. Gracias a la alianza entre los pueblos indígenas, las organizaciones sociales y las ONG, esa ley se detuvo y se revirtió. Fue todo de manera pacífica. Ahí hay mucho que aprender.
 
 En el área de derechos digitales quizá deberíamos reunirnos más con esas organizaciones para entender sus lógicas. Hoy no hay demasiado diálogo entre comunidades —la de pueblos indígenas, la ambientalista, la de género, la de derechos digitales— y creo que un aprendizaje cruzado sería especialmente valioso en este contexto adverso, que nos toca a todos por igual.
+

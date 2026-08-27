@@ -1,10 +1,4 @@
----
-title: "Carolina Botero"
-nav_order: 1
-parent: Entrevistas
----
-
-## **Carolina Botero**
+# Carolina Botero
 
 Carolina Botero es una abogada colombiana con más de 20 años de experiencia en la promoción y defensa de los derechos humanos en Internet, especializada en las intersecciones entre el derecho, la tecnología y las políticas digitales. En 2024 recibió el Premio de la Electronic Frontier Foundation (EFF) por su trayectoria en la promoción de los derechos digitales en América Latina. Actualmente coordina la Coalición Acceso al Conocimiento (A2K Coalition), lidera la incidencia del Consorcio AlSur y es líder para América Latina del Tech Trade & Geopolitics Forum.
 
@@ -67,3 +61,4 @@ Dicho esto, creo que la historia es cíclica, y espero que estemos cerca de toca
 Uno que todavía no tengo del todo procesado, pero que me parece central, es el del movimiento de lo abierto en tecnología. Fue un movimiento realmente interesante, que logró torcer una realidad: pensemos en cómo hubiera sido nuestra tecnología si se hubieran impuesto sin contrapeso las lógicas cerradas al estilo Microsoft. Ese movimiento hoy está bajo la lupa, y con razón: terminó siendo funcional a un extractivismo que no buscábamos, y en algunos casos alimentó procesos de colonización, sobre todo en sus desarrollos en acceso al conocimiento. Pero creo que sigue siendo esencial, que si somos capaces de repensarlo, de darle varias vueltas, es fundamental para construir un futuro mejor. La alternativa —mundos tecnológicos cerrados y secretos— tampoco le conviene a nadie.
 
 No sé bien cómo va a darse ese proceso, pero creo que cuando se nos pase el susto y logremos ver una salida, vamos a poder retomar esa lógica colaborativa. Toda la teoría de lo abierto en tecnología digital se construyó en el norte, pero a América Latina le calzó bien, porque compartir y lo abierto son prácticas que ya estaban instaladas en la región. No lo siento como algo ajeno. Cuando seamos capaces de separar lo aprovechable de lo que no, vamos a poder pensarnos de nuevo desde lo colaborativo y lo reflexivo. La alternativa es un ecosistema tecnológico gris, triste, cerrado, y la verdad bastante desolador.
+

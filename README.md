@@ -1,32 +1,24 @@
 # Modelos de Gobernanza de Derechos Humanos en Entornos Digitales
 
-Sitio de documentación con el **Estudio Regional sobre Modelos de Gobernanza de Derechos Humanos en Entornos Digitales**, investigación de Civic House en el marco del proyecto de la Fundación Dignitas por la Vida, con el apoyo de AECID.
+**Estudio Regional sobre Modelos de Gobernanza de Derechos Humanos en Entornos Digitales**
 
-El contenido original (Google Docs → Markdown) se dividió en capítulos navegables y se publica como un sitio estático con [Jekyll](https://jekyllrb.com/) y el tema [Just the Docs](https://just-the-docs.com/) (barra lateral, búsqueda y navegación por breadcrumbs, en un flujo similar a GitBook).
+Esta investigación fue realizada por **Civic House**, como socio local, en el marco del proyecto *"Modelos de Gobernanza para la protección de derechos humanos en el entorno digital"* de la **Fundación Dignitas por la Vida**, con el apoyo de **AECID**.
 
-## Estructura del contenido
+## Objetivo
 
-- `index.md` — inicio
-- `introduccion.md`, `estado-del-arte.md`, `marco-teorico.md`, `metodologia.md`
-- `analisis-regulatorio/` — marco global/regional y panorama regional comparado
-- `paises/` — nueve fichas nacionales (Argentina, Colombia, Chile, Costa Rica, Panamá, Perú, México, Guatemala, República Dominicana)
-- `tendencias-regionales.md`, `conclusiones.md`, `recomendaciones.md`
-- `entrevistas/` — Carolina Botero, Cristian León
-- `referencias.md`
+Identificar los marcos normativos existentes en materia de derechos humanos en entornos digitales en **Argentina, Chile, Colombia, Costa Rica, Guatemala, México, Panamá, Perú y República Dominicana**, a fin de impulsar espacios de incidencia mediante el diálogo y la cooperación para promover el cumplimiento y el avance de los derechos humanos en entornos digitales.
 
-## Publicar el sitio en GitHub Pages
+## Pregunta de investigación
 
-**Importante:** este repo trae un único workflow (`.github/workflows/pages.yml`). Si en algún momento usás el asistente de GitHub ("Settings → Pages → configurar Jekyll automáticamente"), **no lo aceptes** — crea un segundo workflow (`jekyll.yml`) que duplica y rompe el despliegue.
+> ¿Cuál es el estado de los marcos normativos en materia de derechos humanos en entornos digitales en estos nueve países, y qué tendencias y vacíos regulatorios pueden identificarse a nivel regional?
 
-1. Ir a **Settings → Pages** y en **Build and deployment → Source** elegir **GitHub Actions** (sin usar ningún asistente/plantilla sugerida).
-2. Al hacer push a `main`, el workflow existente compila el sitio con Jekyll y lo despliega automáticamente.
-3. La URL pública queda disponible en la misma sección de Settings → Pages una vez completado el primer deploy (podés verificar el progreso en la pestaña **Actions**).
+## Estructura del informe
 
-## Desarrollo local
+1. **[Introducción](introduccion.md)** y **[Estado del Arte](estado-del-arte.md)**: contexto y debates que enmarcan la investigación.
+2. **[Marco teórico](marco-teorico.md)** y **[Cuestiones metodológicas](metodologia.md)**: ejes analíticos y diseño de la investigación.
+3. **[Análisis de los marcos regulatorios](analisis-marcos-regulatorios/global.md)**: relevamiento a nivel global, regional y en cada uno de los nueve países.
+4. **[Tendencias regionales](tendencias-regionales.md)**, **[Conclusiones](conclusiones.md)** y **[Recomendaciones](recomendaciones.md)**.
+5. **[Entrevistas](entrevistas/README.md)**: conversaciones con referentes en derechos digitales de la región.
+6. **[Referencias](referencias.md)**.
 
-```bash
-bundle install
-bundle exec jekyll serve
-```
-
-Sitio disponible en `http://127.0.0.1:4000`.
+Este informe está dirigido a actores estatales que diseñan políticas públicas, organizaciones de la sociedad civil, empresas tecnológicas, proveedores de internet y desarrolladores de software involucrados en la gobernanza digital de la región.

@@ -1,10 +1,4 @@
----
-title: "Colombia"
-nav_order: 2
-parent: Perfiles de país
----
-
-# **Colombia**
+# Colombia
 
 ## Privacidad y Protección de Datos Personales
 
@@ -77,3 +71,4 @@ En el ámbito de los entornos digitales, la Corte ha precisado que la libertad d
 Por otro lado, en la Sentencia T-475 de 2024, el tribunal examinó el bloqueo de un periodista por parte de una gobernación en la red social X y sostuvo que la exclusión de un usuario de espacios digitales administrados por autoridades públicas podría afectar el acceso a información pública y la libertad de expresión. Posteriormente, en la Sentencia T-256 de 2025, la Corte analizó la eliminación de contenidos y el cierre de una cuenta de Instagram administrada por Meta Platforms Inc., abordando cuestiones relativas a debido proceso, transparencia y mecanismos de revisión en sistemas de moderación de contenidos. En esa decisión, el tribunal señaló que las plataformas digitales ejercen facultades de moderación sobre contenidos generados por usuarios y estableció criterios correspondientes.
 
 En materia de acceso a la información pública, la Ley 1712 de 2014 establece el marco normativo de referencia, promoviendo una cultura de transparencia mediante la divulgación proactiva de información por parte de entidades públicas y privadas que presten servicios de carácter público. La norma define la información pública como toda aquella que los sujetos obligados generen, obtengan o controlen en el desarrollo de sus funciones, y distingue entre información clasificada, cuya divulgación puede vulnerar derechos individuales, e información reservada, cuya divulgación puede dañar intereses públicos. El uso de medios electrónicos cumple un rol central en este esquema, en tanto facilita y potencia la difusión masiva, actualizada y accesible de información de interés general (Jiménez y Quintana, 2023).
+

@@ -1,9 +1,4 @@
----
-title: "Referencias"
-nav_order: 12
----
-
-# **Referencias**
+# Referencias
 
 Access Now. (2024). Radiografía del panorama legislativo de la inteligencia artificial en América Latina. https://www.accessnow.org/wp-content/uploads/2024/02/LAC-Reporte-regional-de-politicas-de-regulacion-a-la-IA.pdf
 
@@ -454,3 +449,14 @@ Villeda Erazo, B. A. (2017). Influencia de las tecnologías de información y co
 Voces del Sur. (2025). Informe regional derechos digitales y ciberdelincuencia en Centroamérica. https://fled.ong/otros-informes/\#informe-regional-derechos-digitales-y-ciberdelincuencia-en-centroamerica-2018-2025/1/
 
 Zeballos Bethancourt, S. (2023). La protección de datos personales en base a la Ley No. 81 de 26 de marzo de 2019, "Sobre la Protección de Datos". [https://revistas.up.ac.pa/index.php/anuario\_derecho/article/view/3451](https://revistas.up.ac.pa/index.php/anuario_derecho/article/view/3451)
+
+[^1]:  Secretaría General Iberoamericana 
+
+[^2]:  Red Iberoamericana de Protección de Datos
+
+[^3]:  IEEE 2089.1-2024, IEEE Standard for Online Age Verification (publicado el 24 de mayo de 2024). Integrante de la familia de estándares basada en los principios de 5Rights Foundation, define el concepto de aseguramiento de la edad (age assurance) y establece distintos niveles de confianza (asserted, standard, enhanced y strict), junto con requisitos de protección de la privacidad, seguridad de los datos y gestión de los sistemas de información aplicables al proceso.
+
+[^4]:  También véase relacionado a violencia de género en línea con la [Convención de Estambul](https://www.consejomujeresmadrid.org/wp-content/uploads/2013/08/convenio-estambul.pdf) y la [Directiva (UE) 2024/1385](https://eur-lex.europa.eu/legal-content/es/ALL/?uri=CELEX%3A32024L1385).
+
+[^5]:  [https://lac.unwomen.org/sites/default/files/2022-11/MUESTRA%20Informe%20Violencia%20en%20linea%202.1%20%282%29\_Aprobado%20%28Abril%202022%29\_0.pdf](https://lac.unwomen.org/sites/default/files/2022-11/MUESTRA%20Informe%20Violencia%20en%20linea%202.1%20%282%29_Aprobado%20%28Abril%202022%29_0.pdf)
+

@@ -1,11 +1,6 @@
----
-title: "Recomendaciones"
-nav_order: 10
----
-
 # Recomendaciones
 
-## **Sector público**
+## Sector público
 
 En primer lugar,  resulta de importancia la **elaboración de marcos normativos integrales emitidos por el Poder Legislativo** en relación con los ejes temáticos abordados en la presente investigación. La regulación emitida por el Poder Ejecutivo presenta, con frecuencia, deficiencias estructurales que la tornan difusa e imprecisa. A su vez, al momento de diseñar e implementar políticas públicas, se precisa la efectividad de un marco regulatorio en materia digital que no depende exclusivamente de la sanción de marcos integrales. Es **necesario considerar el contexto institucional en el que opera, las capacidades del Estado para implementarla y el conjunto de actores que intervienen en su ejecución**. El diseño e implementación de políticas en entornos digitales debe partir de diagnósticos que contemplen estas dimensiones.
 
@@ -21,7 +16,7 @@ En sexto lugar, las políticas públicas en cuanto a derechos humanos en entorno
 
 Por último, es necesario **fortalecer redes de acompañamiento y asistencia para víctimas de violencia digital**. Estas redes deben estar articuladas con los organismos públicos competentes para que la respuesta estatal sea oportuna y coordinada.
 
-## **Sector privado**
+## Sector privado
 
 En primer lugar, las empresas que operan en entornos digitales deben **adoptar políticas de debida diligencia que contemplen los derechos humanos en entornos digitales**. Esto implica identificar, prevenir y mitigar los impactos que sus productos, servicios y prácticas comerciales pueden generar sobre las personas, incorporando estándares como los Principios Rectores de Naciones Unidas sobre Empresas y Derechos Humanos.
 
@@ -31,7 +26,7 @@ En tercer lugar, las empresas deben **implementar políticas internas para preve
 
 En cuarto lugar, las **empresas del sector tecnológico deben fortalecer su cooperación** con organismos públicos, academia y sociedad civil en materia de alfabetización digital, prevención de riesgos y generación de buenas prácticas tecnológicas.
 
-## **Organizaciones de la sociedad civil y academia**
+## Organizaciones de la sociedad civil y academia
 
 En primer lugar, se recomienda **mapear los actores existentes y los ámbitos de deliberación en los que se pueden llevar a cabo acciones de incidencia**. Conocer el ecosistema institucional, qué organismos toman decisiones, en qué instancias se discuten las normas, qué actores intervienen, es una condición previa para diseñar estrategias de intervención y evitar la dispersión de esfuerzos.
 
@@ -40,3 +35,4 @@ En segundo lugar, las organizaciones deben **producir conocimiento que incorpore
 En tercer lugar, las organizaciones deben **promover procesos de alfabetización digital y formación ciudadana** orientados a privacidad, seguridad digital, violencia en línea, inteligencia artificial y derechos en entornos digitales, considerando las brechas de acceso y capacidades entre distintos grupos de la población.
 
 Por último, las organizaciones de la sociedad civil deben **participar en los espacios multisectoriales** de elaboración normativa y formulación de políticas públicas, promoviendo enfoques basados en derechos humanos y perspectiva de género.
+

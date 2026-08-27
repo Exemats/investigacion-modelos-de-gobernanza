@@ -1,8 +1,3 @@
----
-title: "Marco teórico"
-nav_order: 4
----
-
 # Marco teórico
 
 Con el propósito de precisar los conceptos que orientan el presente informe, este apartado expone de manera sistemática y rigurosa las nociones clave que conforman el marco teórico y analítico del estudio.
@@ -126,8 +121,3 @@ A los fines del presente informe, se entiende por libertad de expresión y acces
 
 En el marco de este derecho, resulta pertinente distinguir entre información errónea y desinformación. La primera refiere a la difusión accidental de información inexacta, mientras que la segunda no sólo es inexacta, sino que tiene por objetivo engañar y se difunde con el fin de causar perjuicios (ONU, 2021). La desinformación puede ser difundida tanto por Estados como por agentes no estatales. Dicho concepto, de todas maneras, continúa siendo objeto de debate. Se observan dificultades a la hora de acuñar una definición universalmente aceptada del término, dado que ninguna definición resulta suficiente por sí sola ante los múltiples contextos en los que puede surgir esta problemática.
 
----
-
-**Notas**
-
-[^3]:  IEEE 2089.1-2024, IEEE Standard for Online Age Verification (publicado el 24 de mayo de 2024). Integrante de la familia de estándares basada en los principios de 5Rights Foundation, define el concepto de aseguramiento de la edad (age assurance) y establece distintos niveles de confianza (asserted, standard, enhanced y strict), junto con requisitos de protección de la privacidad, seguridad de los datos y gestión de los sistemas de información aplicables al proceso.

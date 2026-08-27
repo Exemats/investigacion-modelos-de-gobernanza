@@ -1,10 +1,4 @@
----
-title: "Panamá"
-nav_order: 5
-parent: Perfiles de país
----
-
-# **Panamá**
+# Panamá
 
 ## Privacidad y Protección de Datos Personales
 
@@ -65,3 +59,4 @@ En cuanto al acceso a la información pública, el principal instrumento normati
 En cuanto al plano jurisprudencial, la Corte Suprema de Justicia de Panamá desarrolló decisiones sobre acceso a la información pública en causas de hábeas data vinculadas a información estatal y uso de fondos públicos. En sentencias dictadas, tal como fallo “A. A. c/ IFARHU”, resuelto por el Pleno de la Corte Suprema el 18 de abril de 2022, el tribunal analizó el acceso a información sobre beneficiarios de auxilios económicos estatales y el alcance de las excepciones de confidencialidad aplicables a información pública. 
 
 En cuanto a la autoridad de aplicación, la Ley 6 de 2002 designa a la Autoridad Nacional de Transparencia y Acceso a la Información (ANTAI) como organismo encargado de velar por el cumplimiento de los derechos de acceso a la información en todas las agencias del Estado. En el ejercicio de este rol, la ANTAI ha impulsado procesos de participación en la construcción de políticas de transparencia y gobierno abierto, entre los que se destaca la conducción de mesas temáticas para la elaboración de los planes nacionales de gobierno abierto, instancia en la que representantes del gobierno y de la sociedad civil discuten compromisos en torno a ocho áreas prioritarias para el país. A su vez, Panamá participa en el Programa Interamericano de Datos Abiertos para Prevenir y Combatir la Corrupción (PIDA).
+

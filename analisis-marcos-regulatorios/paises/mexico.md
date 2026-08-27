@@ -1,10 +1,4 @@
----
-title: "México"
-nav_order: 7
-parent: Perfiles de país
----
-
-# **México**
+# México
 
 ## Privacidad y Protección de Datos Personales
 
@@ -85,3 +79,4 @@ En el plano de las políticas públicas, el gobierno federal administra la Plata
 En cuanto a las autoridades con competencia en la materia, el INAI operó como organismo constitucional autónomo desde 2003 hasta su extinción formal en mayo de 2025\. El nuevo modelo distribuye las funciones garantes según el poder u órgano de que se trate: a nivel federal, el Poder Ejecutivo es supervisado por Transparencia para el Pueblo, órgano desconcentrado de la Secretaría Anticorrupción y Buen Gobierno; el Poder Legislativo por las contralorías del Congreso de la Unión; el Poder Judicial por el Tribunal de Disciplina Judicial; y los organismos constitucionalmente autónomos por sus propios órganos internos de control. La coordinación del sistema recae en un Consejo General presidido por la Secretaría Anticorrupción y Buen Gobierno e integrado por la Agencia de Transformación Digital y Telecomunicaciones, el Archivo General de la Nación y otras instancias federales, junto con las presidencias de los 32 Comités de los Subsistemas de Transparencia de las entidades federativas. Los organismos garantes locales mantienen competencia en sus respectivas jurisdicciones.
 
 En lo que respecta a los ámbitos de participación de la sociedad civil, el nuevo modelo introduce modificaciones significativas respecto del esquema anterior. Anteriormente, los comisionados del INAI eran designados mediante un procedimiento sustanciado por el Senado de la República que incluía convocatoria pública, requisitos formales, entrevistas y consulta a la sociedad. La nueva Ley General establece que la persona titular del Poder Ejecutivo Federal designa directamente a la titular de Transparencia para el Pueblo, sin mecanismo de consulta ciudadana ni control parlamentario. Asimismo, la composición del nuevo Consejo General no contempla la participación de organizaciones de la sociedad civil, a diferencia del modelo anterior.
+

@@ -1,10 +1,4 @@
----
-title: "Costa Rica"
-nav_order: 4
-parent: Perfiles de país
----
-
-# **Costa Rica**
+# Costa Rica
 
 ## Privacidad y Protección de Datos Personales
 
@@ -75,3 +69,4 @@ Durante 2025 se registraron nuevas decisiones vinculadas con la materia. La Reso
 En el plano normativo interno, el acceso a la información pública mostró avances normativos con la aprobación de la nueva Ley 10.554 Marco de Acceso a la Información y Transparencia (2024). Sin embargo, dicha ley no contempla autoridad de aplicación, lo que representa una limitación central para su efectividad. La Defensoría de los Habitantes y la Sala Constitucional continuaron recibiendo más de 400 recursos de amparo anuales por denegaciones o retrasos en la entrega de información, y representantes del poder ejecutivo fueron objeto de sentencias que ordenaron divulgar datos sobre contrataciones, visitas oficiales y gestión presupuestaria (Cuarto Informe del Estado de la Libertad de Expresión en Costa Rica, 2024). En materia de desinformación, el Gobierno de Costa Rica impulsó en el año 2019 una plataforma oficial “Gobierno Aclara” destinada a desmentir contenidos falsos y facilitar la verificación de información pública. Sin embargo, la última publicación registrada es del año 2020\.
 
 En cuanto a los entornos digitales, las agresiones al ejercicio periodístico se reproducen y amplifican en entornos digitales, donde se organizan campañas de descrédito, se normaliza la intimidación y no se dan las condiciones para un debate público libre (Universidad para la Paz, 2024). Esta situación adquiere una dimensión de género específica: el 38% de la violencia digital en 2024 estuvo dirigida a mujeres en espacios de poder, incluyendo a la Contralora General de la República, la Presidenta Ejecutiva de la CCSS y la Presidenta del TSE, tendencia que no solo afectó la seguridad individual sino también la diversidad de voces y el pluralismo informativo (Universidad para la Paz, 2024). A pesar de la aprobación de reglamentos y leyes específicas como la Ley 10.235 (2022) sobre violencia contra las mujeres en política, su aplicación siguió siendo limitada (Cuarto Informe del Estado de la Libertad de Expresión en Costa Rica, 2024).
+
